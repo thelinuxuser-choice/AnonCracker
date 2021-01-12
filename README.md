@@ -4,13 +4,14 @@
 </p>
 
 - 🔭 simple and fast bruteforce for pdf , zip and hashes
-- 🌱 script conducted **Python**
+- 🌱 script written  **Python**
 - 🤔 credits **@taj0023** for awesome support
 - 💬 install using **git clone https://github.com/thelinuxuser-choice/BRUT3R.git***
 -  ***cd BRUT3R*** 
-- ***install requirements pip = install -r requirements.txt***
+- install requirements ***pip  install -r requirements.txt***
 - run main.py **python3 main.py***
-- if requirements wont work use it manually by-be sure you have pip (install pip with = **apt-get install python3-pip**)
+- if requirements wont work use it manually by-be sure you have pip
+-(install pip with = **apt-get install python3-pip**)
 - **pip install pikepdf**
 - **pip install hashlib***
 - 📫 How to reach me:  [@Instagram](https://www.instagram.com/h3k3rs/)
