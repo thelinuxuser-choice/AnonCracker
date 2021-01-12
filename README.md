@@ -20,6 +20,14 @@ git clone https://github.com/thelinuxuser-choice/BRUT3R.git
 
 cd BRUT3R
 
+install requirements
+pip install -r requirements.txt
+
 run main.py
 python3 main.py
+
+||||||||||||||||||||||
+if requirements wont work use it manually by
+apt-get install pikepdf
+apt-get install hashlib
 
