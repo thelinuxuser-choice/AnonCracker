@@ -7,15 +7,15 @@
 - 🌱 script written  **Python**
 - 🤔 credits **@taj0023** for awesome support
 ### Installation
-**git clone https://github.com/thelinuxuser-choice/BRUT3R.git***
-***cd BRUT3R*** 
-***pip  install -r requirements.txt***
-**python3 main.py***
+-**git clone https://github.com/thelinuxuser-choice/BRUT3R.git***
+-***cd BRUT3R*** 
+-***pip  install -r requirements.txt***
+-**python3 main.py***
 ### error fixing  
 if requirements wont work use it manually by-be sure you have pip
 (install pip with = **apt-get install python3-pip**)
-**pip install pikepdf**
-**pip install hashlib***
+-**pip install pikepdf**
+-**pip install hashlib***
 -****important paste your pdf,zip in to BRUT3X folder and wordlist into BRUT3x folder and run otherwise it will not run the attack****
 - 📫 How to reach me:  [@Instagram](https://www.instagram.com/h3k3rs/)
 - ***WARNING!***
