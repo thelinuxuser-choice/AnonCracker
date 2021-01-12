@@ -6,20 +6,23 @@
 - 🔭 simple and fast bruteforce for pdf , zip and hashes
 - 🌱 script written  **Python**
 - 🤔 credits **@taj0023** for awesome support
-- 💬 install using **git clone https://github.com/thelinuxuser-choice/BRUT3R.git***
- ***cd BRUT3R*** 
- install requirements ***pip  install -r requirements.txt***
- run main.py **python3 main.py***
- if requirements wont work use it manually by-be sure you have pip
+### Installation
+**git clone https://github.com/thelinuxuser-choice/BRUT3R.git***
+***cd BRUT3R*** 
+***pip  install -r requirements.txt***
+**python3 main.py***
+### error fixing  
+if requirements wont work use it manually by-be sure you have pip
 (install pip with = **apt-get install python3-pip**)
- **pip install pikepdf**
- **pip install hashlib***
+**pip install pikepdf**
+**pip install hashlib***
+-****important paste your pdf,zip in to BRUT3X folder and wordlist into BRUT3x folder and run otherwise it will not run the attack****
 - 📫 How to reach me:  [@Instagram](https://www.instagram.com/h3k3rs/)
 - ***WARNING!***
 - ⚡ ***BRUT3X***:
 - ***use at your own risk donot use for illeagal activities***
 
--****important paste your pdf,zip in to BRUT3X folder and wordlist into BRUT3x folder and run otherwise it will not run the attack****
+
 
 
 ### Languages and Tools:
