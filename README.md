@@ -28,6 +28,6 @@ python3 main.py
 
 ||||||||||||||||||||||
 if requirements wont work use it manually by
-apt-get install pikepdf
-apt-get install hashlib
+\\\\\\\\\apt-get install pikepdf==1.19.0
+\\\\\\\\\\apt-get install hashlib
 
