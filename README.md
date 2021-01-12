@@ -19,10 +19,14 @@
 - ⚡ ***BRUT3X***:
 - ***use at your own risk donot use for illeagal activities***
 
+-****important paste your pdf,zip in to BRUT3X folder and wordlist into BRUT3x folder and run otherwise it will not run the attack****
+
 
 ### Languages and Tools:
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+    
+
 
 </p>
