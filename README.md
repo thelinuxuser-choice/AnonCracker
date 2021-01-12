@@ -27,7 +27,6 @@ run main.py
 python3 main.py
 
 ||||||||||||||||||||||
-if requirements wont work use it manually by
-\\\\\\\\\apt install pikepdf==1.19.0
-\\\\\\\\\\apt install hashlib
-
+if requirements wont work use it manually by-be sure you have pip (install pip with = apt-get install python3-pip
+\\\\\\\\\pip install pikepdf
+\\\\\\\\\\pip install hashlib
