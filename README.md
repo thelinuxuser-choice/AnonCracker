@@ -1,6 +1,6 @@
 ### BRUT3X SIMPLE POWERFUL BRUTEFORCE TOOL   
 <p align='center'>
-    <img src = 'contain.jpg' height="200" width = '600' >
+    <img src = 'contain.jpg' height="200" width = '200' >
 </p>
 
 - 🔭 simple and fast bruteforce for pdf , zip and hashes
