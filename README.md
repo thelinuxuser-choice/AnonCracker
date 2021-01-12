@@ -13,4 +13,11 @@ bruteforce
 python script
 ----------------------------------------------------------------------------------------------------------
 install using 
-git clone 
+git clone https://github.com/thelinuxuser-choice/BRUT3R.git
+===========================================================
+go to file
+cd BRUT3R
+==========
+run main.py
+python3 main.py
+===============
