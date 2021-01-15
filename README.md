@@ -1,9 +1,7 @@
 ###ANON CRACKER SIMPLE POWERFUL BRUTEFORCE TOOL 
 ### PLS READ ERROR FIXING SECTION AND RUN
 ==========================================
-<p align='center'>
-    <img src = 'contain.jpg' height="200" width = '200' >
-</p>
+
 <p align='center'>
     <img src = 'r1.png' height="200" width = '500' >
 </p>
