@@ -29,9 +29,9 @@ print(TGREEN +"                      ☺|pdf,hash,zip files superfast   | ☺   
 print(TGREEN +"              ☠   ☠   ☠|donot use for illeagal purposes|☠  ☠  ☠  ")
 print(TGREEN +"                    ----♛coming soon ssh bruteforcer♛------  \n")
 print(TGREEN +"===================❌made with evil love❌====================================")
-print(TGREEN +"=  ❌This Script Was Made By taj_0023 (thenga) and thelinuxuser-choice ❌        =")
+print(TGREEN +"=  ❌This Script Was Made By taj0023  and thelinuxuser-choice ❌        =")
 print(TGREEN +"=  ❌[youtube coming soon - coming soon with full of love]❌                 = ")
-print(TGREEN +"=        ❌[instergram - taj0023,thelinuxuser_choice]❌                                   = ")
+print(TGREEN +"=        ❌[instergram - taj_0023,thelinuxuser_choice]❌                                   = ")
 print(TGREEN +"=============================================================================") 
 print(" -Here is your operating system-                          ")
 import os
