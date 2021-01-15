@@ -13,7 +13,7 @@
 
 - 🔭 simple and fast bruteforce for pdf , zip and hashes
 - 🌱 script written  **Python**
-- 🤔 credits **@taj0023** for awesome support
+- 🤔 credits [@taj0023](https://github.com/taj0023) for awesome support
 ### Installation
 - **git clone https://github.com/thelinuxuser-choice/AnonCracker.git***
 - ***cd BRUT3R*** 
