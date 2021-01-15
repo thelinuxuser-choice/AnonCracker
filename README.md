@@ -10,7 +10,7 @@
 - **git clone https://github.com/thelinuxuser-choice/BRUT3R.git***
 - ***cd BRUT3R*** 
 - ***pip  install -r requirements.txt***
-- **python3 brutex.py***
+- **python3 AnonCracker.py***
 ### error fixing  
 if requirements wont work use it manually by-be sure you have pip
 (install pip with = **apt-get install python3-pip**)
