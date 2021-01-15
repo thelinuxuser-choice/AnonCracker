@@ -1,5 +1,6 @@
 ### BRUT3X SIMPLE POWERFUL BRUTEFORCE TOOL 
-### pls read error fixing table:and help me with pull requests  
+### PLS READ ERROR FIXING SECTION AND RUN
+==========================================
 <p align='center'>
     <img src = 'contain.jpg' height="200" width = '200' >
 </p>
