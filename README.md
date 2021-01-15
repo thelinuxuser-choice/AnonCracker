@@ -9,7 +9,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### PLS READ ERROR FIXING SECTION AND RUN
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
+
 ### PICTURES
 
 
