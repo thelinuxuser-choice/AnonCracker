@@ -26,9 +26,9 @@
 ### error fixing  
 if requirements wont work use it manually by-be sure you have pip
 (install pip with = **apt-get install python3-pip**)
-- **pip install pikepdf**
-- **pip install hashlib***
-- ****important paste your pdf,zip in to BRUT3X folder and wordlist into BRUT3x folder and run otherwise it will not run the attack****
+- [x] **pip install pikepdf**
+- [x] **pip install hashlib***
+- [x] ****important paste your pdf,zip in to BRUT3X folder and wordlist into BRUT3x folder and run otherwise it will not run the attack****
 - 📫 How to reach me:  [@Instagram](https://www.instagram.com/h3k3rs/)
 ### WARNING!
 ⚡ ***ANON CRACKER***:
