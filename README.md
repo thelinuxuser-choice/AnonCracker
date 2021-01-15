@@ -3,7 +3,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)]()
 ![](https://img.shields.io/badge/Python-3-blue)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com//thelinuxuser-choice/AnonCracker/)
-
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ### ANON CRACKER SIMPLE POWERFUL BRUTEFORCE TOOL
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -36,12 +36,14 @@ if requirements wont work use it manually by-be sure you have pip
 ### WARNING!
 ⚡ ***ANON CRACKER***:
 \\***use at your own risk donot use for illeagal activities***//
+### spread the
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 
 
 # share my github
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Z4nzu/)](https://github.com/thelinuxuser-choice/)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/thelinuxuser-choice/github-readme-stats)
+
 ### Languages and Tools:
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
