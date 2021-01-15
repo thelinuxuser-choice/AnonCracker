@@ -8,7 +8,7 @@
 ### ANON CRACKER SIMPLE POWERFUL BRUTEFORCE TOOL
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-### PLS READ ERROR FIXING SECTION AND RUN
+### PLS READ ERROR FIXING SECTION AND RUN <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ### PICTURES
 
@@ -28,7 +28,7 @@
 - [x] ***cd BRUT3R*** 
 - [x] ***pip  install -r requirements.txt***
 - [x] **python3 AnonCracker.py***
-### error fixing  
+### error fixing  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 if requirements wont work use it manually by-be sure you have pip
 (install pip with = **apt-get install python3-pip**)
 - [x] **pip install pikepdf**
