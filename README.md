@@ -1,5 +1,7 @@
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
+![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)]()
+![](https://img.shields.io/badge/Python-3-blue)
 ### ANON CRACKER SIMPLE POWERFUL BRUTEFORCE TOOL
 
 
