@@ -2,8 +2,11 @@
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)]()
 ![](https://img.shields.io/badge/Python-3-blue)
-### ANON CRACKER SIMPLE POWERFUL BRUTEFORCE TOOL
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com//thelinuxuser-choice/AnonCracker/)
 
+
+### ANON CRACKER SIMPLE POWERFUL BRUTEFORCE TOOL
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### PLS READ ERROR FIXING SECTION AND RUN
 
