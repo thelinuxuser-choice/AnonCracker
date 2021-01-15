@@ -1,4 +1,4 @@
-### BRUT3X SIMPLE POWERFUL BRUTEFORCE TOOL 
+###ANON CRACKER SIMPLE POWERFUL BRUTEFORCE TOOL 
 ### PLS READ ERROR FIXING SECTION AND RUN
 ==========================================
 <p align='center'>
@@ -27,7 +27,7 @@ if requirements wont work use it manually by-be sure you have pip
 - ****important paste your pdf,zip in to BRUT3X folder and wordlist into BRUT3x folder and run otherwise it will not run the attack****
 - 📫 How to reach me:  [@Instagram](https://www.instagram.com/h3k3rs/)
 ### WARNING!
-⚡ ***BRUT3X***:
+⚡ ***ANON CRACKER***:
 \\***use at your own risk donot use for illeagal activities***//
 
 
