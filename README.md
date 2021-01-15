@@ -19,10 +19,10 @@
 - 🌱 script written  **Python**
 - 🤔 credits [@taj0023](https://github.com/taj0023) for awesome support
 ### Installation
-- **git clone https://github.com/thelinuxuser-choice/AnonCracker.git***
-- ***cd BRUT3R*** 
-- ***pip  install -r requirements.txt***
-- **python3 AnonCracker.py***
+- [x] **git clone https://github.com/thelinuxuser-choice/AnonCracker.git***
+- [x] ***cd BRUT3R*** 
+- [x] ***pip  install -r requirements.txt***
+- [x] **python3 AnonCracker.py***
 ### error fixing  
 if requirements wont work use it manually by-be sure you have pip
 (install pip with = **apt-get install python3-pip**)
