@@ -7,7 +7,7 @@
 - 🌱 script written  **Python**
 - 🤔 credits **@taj0023** for awesome support
 ### Installation
-- **git clone https://github.com/thelinuxuser-choice/BRUT3R.git***
+- **git clone https://github.com/thelinuxuser-choice/AnonCracker.git***
 - ***cd BRUT3R*** 
 - ***pip  install -r requirements.txt***
 - **python3 AnonCracker.py***
