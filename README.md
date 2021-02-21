@@ -10,24 +10,33 @@
 
 ### PLS READ ERROR FIXING SECTION AND RUN <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-### PICTURES
+<p align='center'>
+    <img src = '/assets/anonymous.png' height="200" width = '500' >
+</p>
+
+
+
+### trial
 
 
 <p align='center'>
-    <img src = 'r1.png' height="200" width = '500' >
+    <img src = '/assets/r1.png' height="200" width = '500' >
 </p>
 <p align='center'>
-    <img src = 'r2.png' height="200" width = '500' >
+    <img src = '/assets/r2.png' height="200" width = '500' >
 </p>
 
-- 🔭 simple and fast bruteforce for pdf , zip and hashes
-- 🌱 script written  **Python**
-- 🤔 credits [@taj0023](https://github.com/taj0023) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Z4nzu/)](https://github.com/taj0023/) for awesome support
+-  simple and fast bruteforce for pdf , zip and hashes
+-  script written  **Python**
+- credits [@taj0023](https://github.com/taj0023) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Z4nzu/)](https://github.com/taj0023/) for awesome support
 ### Installation
 - [x] **git clone https://github.com/thelinuxuser-choice/AnonCracker.git***
 - [x] ***cd BRUT3R*** 
 - [x] ***pip  install -r requirements.txt***
-- [x] **python3 AnonCracker.py***
+- [x] **python3 AnonCracker.py**
+
+
+
 ### error fixing  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 if requirements wont work use it manually by-be sure you have pip
 (install pip with = **apt-get install python3-pip**)
@@ -35,26 +44,15 @@ if requirements wont work use it manually by-be sure you have pip
 - [x] **pip install hashlib***
 - [x] ****important paste your pdf,zip in to BRUT3X folder and wordlist into BRUT3x folder and run otherwise it will not run the attack****
 - 📫 How to reach me:  [@Instagram](https://www.instagram.com/h3k3rs/)
-### WARNING!
-⚡ ***ANON CRACKER***:
-\\***use at your own risk donot use for illeagal activities***//
-### spread the
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+
+***donot use for illeagal activities***
+
 
 
 
 # share my github
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Z4nzu/)](https://github.com/thelinuxuser-choice/)
-## nothing productive
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
-
-### Languages and Tools:
-<p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-
-<a href="https://www.buymeacoffee.com/subodhaprabash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 50px !important;"></a>
 
     
 
