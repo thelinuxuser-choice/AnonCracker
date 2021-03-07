@@ -10,10 +10,7 @@
 
 ### PLS READ ERROR FIXING SECTION AND RUN <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<p align='center'>
-    <img src = '/assets/anonymous.png' height="200" width = '500' >
-</p>
-
+![Gif](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 
 ### trial
