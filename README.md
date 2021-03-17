@@ -6,26 +6,16 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ### ANON CRACKER SIMPLE POWERFUL BRUTEFORCE TOOL
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### PLS READ ERROR FIXING SECTION AND RUN <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-![Gif](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-
-
-### trial
-
-
-<p align='center'>
-    <img src = '/assets/r1.png' height="200" width = '500' >
-</p>
-<p align='center'>
-    <img src = '/assets/r2.png' height="200" width = '500' >
-</p>
-
 -  simple and fast bruteforce for pdf , zip and hashes
 -  script written  **Python**
 - credits [@taj0023](https://github.com/taj0023) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Z4nzu/)](https://github.com/taj0023/) for awesome support
+
+
+
+
+
 ### Installation
 - [x] **git clone https://github.com/thelinuxuser-choice/AnonCracker.git***
 - [x] ***cd BRUT3R*** 
@@ -50,7 +40,15 @@ if requirements wont work use it manually by-be sure you have pip
 # share my github
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Z4nzu/)](https://github.com/thelinuxuser-choice/)
 
+### trial
 
+
+<p align='center'>
+    <img src = '/assets/r1.png' height="200" width = '500' >
+</p>
+<p align='center'>
+    <img src = '/assets/r2.png' height="200" width = '500' >
+</p>
     
 
 
