@@ -43,10 +43,5 @@ if requirements wont work use it manually by-be sure you have pip
 ### trial
 
 
-<p align='center'>
-    <img src = '/assets/anoncracker.mp4' height="200" width = '500' >
-</p>
-    
+![trial](assets/anoncracker.gif)
 
-
-</p>
