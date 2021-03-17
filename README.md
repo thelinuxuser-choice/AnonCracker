@@ -44,10 +44,7 @@ if requirements wont work use it manually by-be sure you have pip
 
 
 <p align='center'>
-    <img src = '/assets/r1.png' height="200" width = '500' >
-</p>
-<p align='center'>
-    <img src = '/assets/r2.png' height="200" width = '500' >
+    <img src = '/assets/anoncracker.mp4' height="200" width = '500' >
 </p>
     
 
