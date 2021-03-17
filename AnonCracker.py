@@ -28,7 +28,7 @@ print(TGREEN +"SELECT NO 2 FOR ZIP BRUTE FORCE")
 print("                             ")
 print(TGREEN +"SELECT NO 3 FOR HASH BRUTEFORCE")
 print("                             ")
-print(TGREEN +"SELECT e    TO EXIT THE SCRIPT ")
+print(TGREEN +"SELECT [ e  ]  TO EXIT THE SCRIPT ")
 print("                             ")
 
 import os
@@ -67,16 +67,16 @@ if option == "e":
  print(TGREEN +"           GOOD")
  print(TGREEN +"             COFEE :)")
     
-    
-if option == "1":
+else:    
+ if option == "1":
    filename = input(TGREEN +"ENTER YOUR FILE HERE=")
    wordlist = input(TGREEN +"ENTER YOUR WORDLIST HERE=")
    sub.run(f'python3 pdf.py {filename} {wordlist}'.split())
-elif option == "2":
+ elif option == "2":
     filename = input(TGREEN +"ENTER YOUR FILE HERE=:")
     wordlist = input(TGREEN +"ENTER YOUR WORDLIST HERE=:")
     sub.run(f"python3 zip.py {filename} {wordlist}".split())
-else:
+ else:
    sub.run("python3 hash.py".split())
 
 
