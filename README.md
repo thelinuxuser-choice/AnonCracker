@@ -7,6 +7,11 @@
 
 ### ANON CRACKER SIMPLE POWERFUL BRUTEFORCE TOOL
 
+
+
+![trial](assets/anon.gif)
+
+
 ### PLS READ ERROR FIXING SECTION AND RUN <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 -  simple and fast bruteforce for pdf , zip and hashes
 -  script written  **Python**
@@ -40,8 +45,4 @@ if requirements wont work use it manually by-be sure you have pip
 # share my github
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Z4nzu/)](https://github.com/thelinuxuser-choice/)
 
-### trial
-
-
-![trial](assets/anon.gif)
 
