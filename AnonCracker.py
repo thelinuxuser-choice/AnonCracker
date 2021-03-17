@@ -28,7 +28,7 @@ print(TGREEN +"SELECT NO 2 FOR ZIP BRUTE FORCE")
 print("                             ")
 print(TGREEN +"SELECT NO 3 FOR HASH BRUTEFORCE")
 print("                             ")
-print(TGREEN +"SELECT [ e  ]  TO EXIT THE SCRIPT ")
+print(TGREEN +"SELECT {e=exit} e    TO EXIT THE SCRIPT ")
 print("                             ")
 
 import os
