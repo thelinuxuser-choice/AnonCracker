@@ -43,5 +43,5 @@ if requirements wont work use it manually by-be sure you have pip
 ### trial
 
 
-![trial](assets/anoncracker.gif)
+![trial](assets/anon.gif)
 
