@@ -23,7 +23,7 @@
 
 ### Installation
 - [x] **git clone https://github.com/thelinuxuser-choice/AnonCracker.git***
-- [x] ***cd BRUT3R*** 
+- [x] ***cd AnonCracker*** 
 - [x] ***pip  install -r requirements.txt***
 - [x] **python3 AnonCracker.py**
 
